@@ -1,4 +1,4 @@
 # Atharva-Demo
 This is my first Git Repository.
 <br>
-Author - Atharva Salunke.
+Author - Atharva Ashwini Vinay Salunke.
